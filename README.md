@@ -1,7 +1,7 @@
-# PyAEDT for HFSS: ML Data Automation
-**A Framework for Automated HFSS Simulation and Data Generation for Machine Learning**
+# PyAEDT for HFSS: ML Data Automation(Under Development)
+**A script for Automated HFSS Simulation and Data Generation for Machine Learning**
 <br>
-**一个基于 PyAEDT 的 HFSS 自动化仿真与机器学习数据生成框架**
+**一个基于 PyAEDT 的 HFSS 自动化仿真与机器学习数据生脚本**
 
 ---
 
